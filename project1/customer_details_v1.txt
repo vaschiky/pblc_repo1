@@ -1,2 +1,0 @@
-customer_details.txt this is line 1
-customer_details_08042021.txt this is line 2
