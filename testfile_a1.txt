@@ -1,6 +1,0 @@
-testfile_a1.txt this is line 1
-<<<<<<< HEAD
-this line is added from master. line2
-=======
-testfile_a1.txt this is line 2
->>>>>>> feature1
