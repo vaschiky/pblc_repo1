@@ -2,9 +2,18 @@ development line1
 testing bugfix in_patient_list.txt line2
 development line3
 
+<<<<<<< HEAD
 this line is edited in remote repo and commit is done
 
 this line is edited in remote repo for second time in test branch
 
 
 second time : this is added in fixforbug
+this line is edited in remote repo and commit is done
+
+this line is edited in remote repo and commit is done
+
+
+thi is line added 13042021:1140
+
+this is line added 13042021:1149
